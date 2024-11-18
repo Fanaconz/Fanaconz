@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Ruslan 👋
+### 4rd year student of SPbU, Department of Computational Physics
 
 <!--
 **Fanaconz/Fanaconz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
