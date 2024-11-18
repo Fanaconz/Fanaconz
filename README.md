@@ -1,4 +1,4 @@
-## Hi there, I'm Ruslan 👋
+## Hello there, I'm Ruslan 👋
 ### 4rd year student of SPbU, Department of Computational Physics
 
 <!--
